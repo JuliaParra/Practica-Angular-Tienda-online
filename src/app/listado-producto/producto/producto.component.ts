@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
   styleUrl: './producto.component.css'
 })
 export class ProductoComponent {
- 
+ descripcion = 'Nuevo producto';
+ precio = 100.00;
 
 }

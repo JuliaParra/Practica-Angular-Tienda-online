@@ -10,5 +10,5 @@ import { ListadoProductoComponent } from './listado-producto/listado-producto.co
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Tienda-Online';
+  title = 'Tienda Online';
 }
